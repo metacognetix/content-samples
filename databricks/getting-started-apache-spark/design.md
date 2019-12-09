@@ -1,8 +1,13 @@
-# Curriculum: Moving your data analytics from database to Databricks
+![Databricks logo](assets/databricks-black.png)
+# Lesson Design
+## Getting started with Spark when you know SQL
 
-## Course: Working with data in Apache Spark
-
-## Module: Quickstart - Getting started with Spark when you know SQL
+| Last updated | 2019-12-09 |
+| --- | --- |
+| Author | Jeff Brockway |
+| Curriculum | Moving your data analytics from database to Databricks |
+| Course | Working with data in Apache Spark |
+| Lesson | Getting started with Spark when you know SQL |
 
 ---
 ## Assumptions & objectives
@@ -40,6 +45,7 @@ Help someone familiar with traditional database analytics and reporting understa
 - Check against my standard design document
 - Make design doc template
 - Create storyarc curriculum plan
+- Automate build and publish with github actions
 
 ## Intro
 - Not a data scientist or an engineer
