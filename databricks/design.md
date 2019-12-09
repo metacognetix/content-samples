@@ -13,6 +13,10 @@ Citizen data scientist - Someone who has the technical skills to understand the 
 #### Synopsis
 Help someone familiar with traditional database analytics and reporting understand the need for big data and how the concepts map, with a hands-on example for context.
 
+#### Assumptions
+- User has already set up a Databricks account
+- User has already created a cluster
+
 #### Primary objective
 - Learn big data concepts with Spark and Databricks
 
@@ -24,6 +28,10 @@ Help someone familiar with traditional database analytics and reporting understa
 - Create and navigate a Databricks notebook
 - Import a dataset
 - Describe transformations and actions
+- Use visualizations
+- Save and share notebooks
+- Identify next steps
+
 
 
 
@@ -52,6 +60,11 @@ Help someone familiar with traditional database analytics and reporting understa
 ---
 ## Outline
 
+#### You are here
+- Where you are in the Course
+- What you've already done
+- What you'll walk away with
+
 #### Why big data?
 
 #### When would I use it?
@@ -76,46 +89,50 @@ Help someone familiar with traditional database analytics and reporting understa
 - View the data
 - Perform some actions on it
 - Perform some transformations
-- Do this with
+- Do this with SQL and Python
+- Visualize
+- Save and share notebook
 
-### Notes
+#### Next steps
+
+---
+
+## Notes
 
 Making the leap
 Moving from relational database data analytics to big data
 like moving from procedure programming to object oriented. It's a big leap.
 
-data --> clustered fs (in memory)
-SQL --> Spark
-Shell --> Notebooks
-Apps --> Notebooks
-Code --> Notebooks
-Reporting --> Notebooks
+- data --> clustered fs (in memory)
+- SQL --> Spark
+- Shell --> Notebooks
+- Apps --> Notebooks
+- Code --> Notebooks
+- Reporting --> Notebooks
 
 Where does Databricks fit in?
-Infra structure
-Clustering and scalability
-Job running
-UI and Notebooks
-Reporting
+- Infra structure
+- Clustering and scalability
+- Job running
+- UI and Notebooks
+- Reporting
 
 
 What are some use cases?
 
 
 Use case:
-Cyber security siem systems
-Too many events
-You’re going to need some help
+- Cyber security siem systems
+- Too many events
+- You’re going to need some help
 
 First get some data scientist a on it to explore, and then data engineers to plumb it
 
 - Where is your data now?
-How did it get there?
-How did you transform it?
-What happens when it updates?
-What happens when the schema changes?
-How do you know you are seeing the possibilities?
+- How did it get there?
+- How did you transform it?
+- What happens when it updates?
+- What happens when the schema changes?
+- How do you know you are seeing the possibilities?
 - Log into Databricks
--
 - Access data sets
--
